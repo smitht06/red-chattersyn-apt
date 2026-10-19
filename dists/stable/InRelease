@@ -5,7 +5,7 @@ Origin: ChatterSyn
 Label: ChatterSyn
 Suite: stable
 Codename: stable
-Date: Mon, 19 Oct 2026 21:07:10 UTC
+Date: Mon, 19 Oct 2026 21:18:30 UTC
 Architectures: amd64
 Components: main
 Description: ChatterSyn APT repository
@@ -23,9 +23,8 @@ SHA512:
  5e9d59dc94af59e793d3dfe117be876eb898616bf8cee94231492569d7ae1e0071b67f59f35f6565e6e9294b16669924ad21a51033432bf790c327ceaef154ec              512 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iJEEARYKADkWIQQDbuTjHpxGxt7ItxTveXRwnrJr3AUCataGixsUgAAAAAAEAA5t
-YW51MiwyLjUrMS4xMiwwLDMACgkQ73l0cJ6ya9wbPwEAmQ1hI2g/dTMkD6izYC97
-88raBWpnv8K5RrWH1oE1F8MA/3hBHMURtMFA1ijxN1ALaQcOPekYarrjPqLYucYl
-TikP
-=dzEp
+iHUEARYKAB0WIQQDbuTjHpxGxt7ItxTveXRwnrJr3AUCataJJgAKCRDveXRwnrJr
+3JjBAQCdTHm30puYmyCbu721F52zrVKJ7pxDRca8+0Ho0C8HFwEAxbybMxgiBtcB
+pQCIijlA5qCp++7upr4xk9yxGa9klQg=
+=42Rs
 -----END PGP SIGNATURE-----
