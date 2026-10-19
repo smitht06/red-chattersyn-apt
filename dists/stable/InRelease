@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: red-chattersyn
+Label: ChatterSyn APT Repository
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: ChatterSyn packages (https://github.com/smitht06/red-chattersyn)
+MD5Sum:
+ ff930142c5131cac20e4d5383696d997 786 tree/dists/stable/main/binary-amd64/Packages
+ 55928ee8ea6e3867a884a379d8be9c53 505 tree/dists/stable/main/binary-amd64/Packages.gz
+SHA256:
+ ad6fcedca2f502cb3fdef7e1fdfac75c3d2de0f0faac0b88cdbd3cab53b68778 786 tree/dists/stable/main/binary-amd64/Packages
+ 56b011cbbafa132728a8706346f20e3eea7be64f7ecc14960445a23ff9ea437a 505 tree/dists/stable/main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iJEEARYKADkWIQQDbuTjHpxGxt7ItxTveXRwnrJr3AUCatZ1URsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQ73l0cJ6ya9zyrAEAvIbDhewhujIbmKww64ZE
+gR6TNOZFLgrz38oM4TXkQtsBAKvmSrFw6TNObKrYPLdEWIBXSnFzKF/4wIobX0jY
+MdwJ
+=7bYz
+-----END PGP SIGNATURE-----
