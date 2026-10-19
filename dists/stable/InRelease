@@ -5,26 +5,26 @@ Origin: ChatterSyn
 Label: ChatterSyn
 Suite: stable
 Codename: stable
-Date: Mon, 19 Oct 2026 21:18:30 UTC
+Date: Mon, 19 Oct 2026 22:20:17 UTC
 Architectures: amd64
 Components: main
 Description: ChatterSyn APT repository
 MD5Sum:
- 8ed27795a3cde117fb62acccb3822f12              781 main/binary-amd64/Packages
- 04e9eac5aff098d0ad30d55ddb71eda6              512 main/binary-amd64/Packages.gz
+ ef7a225e288130b70412fdde04bd759f              781 main/binary-amd64/Packages
+ ab7c6e320206bedb82408ac869ad172e              512 main/binary-amd64/Packages.gz
 SHA1:
- cbac9d376dff36a74edc60f57900f8691a50ecbf              781 main/binary-amd64/Packages
- 36520850bb1f1ef8ae62e4cd282bca8bc95d5bd3              512 main/binary-amd64/Packages.gz
+ fdbdac3a01d2c258d1f15a5af26847786eabd2f3              781 main/binary-amd64/Packages
+ ebfe3705b2449d1ec09bed1ef83c9bbcafbca583              512 main/binary-amd64/Packages.gz
 SHA256:
- 45cd57ba57a398469a7f89b3da4b4b28ff7d7917f966db1c678401bd8882a6c3              781 main/binary-amd64/Packages
- 09421d780bec5c654a0df797a6b70a13e1c3ddcfa86cad45477deccbdba56b3b              512 main/binary-amd64/Packages.gz
+ a3e989705eaa476c0ffdc130d549f3625d2c1617f294bab43715d5ac03647a19              781 main/binary-amd64/Packages
+ 4c920c4da1ec9190a49758df98225224de543d065e4400e60c118d953d2fa0cc              512 main/binary-amd64/Packages.gz
 SHA512:
- 29f3accf56b7934aeae45f4ca4fcf8c2d95f3e5b342470a14a899db95609ba3197ee58639f11fad68cfbd8a7c38a0c3d61f206a1df238de5d5b2c6a99b2d54f1              781 main/binary-amd64/Packages
- 5e9d59dc94af59e793d3dfe117be876eb898616bf8cee94231492569d7ae1e0071b67f59f35f6565e6e9294b16669924ad21a51033432bf790c327ceaef154ec              512 main/binary-amd64/Packages.gz
+ 6447608d7187c81d38a1054c0c5c6b96bb1de64a0df721c58ce7fd203be3e07bface6760bec5e7737acb79ada827c15c3d7c6dbc838e43b96e19455c58c22365              781 main/binary-amd64/Packages
+ d57ccb1de2524163519760233d218f69838d811cb75e78fd73aada559d1ecc42e374b3ecac511036bf5ffcca689e970428f7b1ae25df3294f41bad2c93825e07              512 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQDbuTjHpxGxt7ItxTveXRwnrJr3AUCataJJgAKCRDveXRwnrJr
-3JjBAQCdTHm30puYmyCbu721F52zrVKJ7pxDRca8+0Ho0C8HFwEAxbybMxgiBtcB
-pQCIijlA5qCp++7upr4xk9yxGa9klQg=
-=42Rs
+iHUEARYKAB0WIQQDbuTjHpxGxt7ItxTveXRwnrJr3AUCataXoQAKCRDveXRwnrJr
+3Jp2AP90Bgozeh65Uwj2kKz+wkxmBRxVyyC8c/vdE2EZJDFxvwEAmvN26242uWGn
+OcohegQki3MbNiLgOfgoHqdwC4cKXwU=
+=LUgW
 -----END PGP SIGNATURE-----
