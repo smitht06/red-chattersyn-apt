@@ -1,24 +1,27 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Origin: red-chattersyn
-Label: ChatterSyn APT Repository
-Suite: stable
-Codename: stable
-Architectures: amd64
-Components: main
-Description: ChatterSyn packages (https://github.com/smitht06/red-chattersyn)
+Date: Mon, 19 Oct 2026 21:02:34 +0000
 MD5Sum:
- ff930142c5131cac20e4d5383696d997 786 tree/dists/stable/main/binary-amd64/Packages
- 55928ee8ea6e3867a884a379d8be9c53 505 tree/dists/stable/main/binary-amd64/Packages.gz
+ 07f485203443f01e645f94300c24b51f               38 Release
+ 85f5a1aa55d68f877569aeb60aafc1d7              782 main/binary-amd64/Packages
+ 860cffbeb0493a0cd8ca188dbc6e8b5d              512 main/binary-amd64/Packages.gz
+SHA1:
+ e0e56be21de99225ec0e3690e39ba70e3a867cba               38 Release
+ 5bd49e15d12b7151ef9b5d22fcb37ae283c7fdac              782 main/binary-amd64/Packages
+ 6d9eea617bf56f2473f18a950951785f34782d5a              512 main/binary-amd64/Packages.gz
 SHA256:
- ad6fcedca2f502cb3fdef7e1fdfac75c3d2de0f0faac0b88cdbd3cab53b68778 786 tree/dists/stable/main/binary-amd64/Packages
- 56b011cbbafa132728a8706346f20e3eea7be64f7ecc14960445a23ff9ea437a 505 tree/dists/stable/main/binary-amd64/Packages.gz
+ 1bd5091befea61c5ae1d10b731eb41e6653e270adcc9339b92b5e8a927c3ae42               38 Release
+ 1a86e1b5601b974b980155ed328cea3efbe2f62f70934a641a0e3d7175614c95              782 main/binary-amd64/Packages
+ a9fbcde3651e374dcbc55e6acea7a22ad803b629f975be6c65630d30552b6860              512 main/binary-amd64/Packages.gz
+SHA512:
+ 00a8674ccfb7ac6d9dc5c5d744caadf08aa7f83e3cb2da51b9ef62b5cf38aae4fc35f5c40952f211757e7abdf24ea5c2ddd6276683af80854fb6b2beae3643c6               38 Release
+ facd4f026827d7c0de236e4baaa6ff9dc8fbe507f12d2e3227af7c54d1022ed4cc7515b6f05179b17064a3f3b2284093128da80b65db9582ba64c82367e9bdf0              782 main/binary-amd64/Packages
+ a89825242321e2101984ba1f03732f4ef8c06eadfc3dadb4f242ad4f4c5ee9b62e953f557e04a27f31915d9776dfcbd03213d91e7f7d564be1688ac2aae9d5ed              512 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iJEEARYKADkWIQQDbuTjHpxGxt7ItxTveXRwnrJr3AUCatZ1URsUgAAAAAAEAA5t
-YW51MiwyLjUrMS4xMiwwLDMACgkQ73l0cJ6ya9zyrAEAvIbDhewhujIbmKww64ZE
-gR6TNOZFLgrz38oM4TXkQtsBAKvmSrFw6TNObKrYPLdEWIBXSnFzKF/4wIobX0jY
-MdwJ
-=7bYz
+iHUEARYKAB0WIQQDbuTjHpxGxt7ItxTveXRwnrJr3AUCataFagAKCRDveXRwnrJr
+3C46AP4ulsMYjGVtRxuo1WRS6p7pQn9YXvFw3l6WkE4QOGnroQEAggdQra539p/+
+fsBIVA481Lq3s008Srbwal8WwoOB+gc=
+=vNTI
 -----END PGP SIGNATURE-----

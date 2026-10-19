@@ -1,6 +1,6 @@
-Filename: https://github.com/smitht06/red-chattersyn-apt/releases/download/v0.3.0/chattersyn-0.3.0-linux-x86_64.deb
-Size: 143070698
-SHA256: 6d54023811ed666342740d7d365918e0e8ca23df50de542c0ccfe7495ac2e8e0
+Filename: https://github.com/smitht06/red-chattersyn/releases/download/v0.3.0/chattersyn-0.3.0-linux-x86_64.deb
+Size: 143073770
+SHA256: 66f807f2e6b986ceb14c6ea2439a7d75b17267ee5b865e87543de3885b66c72e
 Package: chattersyn
 Version: 0.3.0
 Architecture: amd64
