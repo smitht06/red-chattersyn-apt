@@ -1,6 +1,6 @@
 Filename: https://github.com/smitht06/red-chattersyn/releases/download/v0.3.0/chattersyn-0.3.0-linux-x86_64.deb
-Size: 143073770
-SHA256: 66f807f2e6b986ceb14c6ea2439a7d75b17267ee5b865e87543de3885b66c72e
+Size: 143069178
+SHA256: 3f4d4e225c1357c254afe5fdb5216135c8269fc6e99f8b71285ff51d24c60065
 Package: chattersyn
 Version: 0.3.0
 Architecture: amd64
@@ -13,4 +13,3 @@ Description: Chatterino-style dual chat client for Twitch and YouTube
  ChatterSyn shows Twitch and YouTube live chat side by side and posts to
  both from a single input. Built on Ubuntu 22.04 (glibc 2.35); installs
  the frozen bundle to /opt/chattersyn with a /usr/bin/chattersyn launcher.
-

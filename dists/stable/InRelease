@@ -1,27 +1,31 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Date: Mon, 19 Oct 2026 21:02:34 +0000
+Origin: ChatterSyn
+Label: ChatterSyn
+Suite: stable
+Codename: stable
+Date: Mon, 19 Oct 2026 21:07:10 UTC
+Architectures: amd64
+Components: main
+Description: ChatterSyn APT repository
 MD5Sum:
- 07f485203443f01e645f94300c24b51f               38 Release
- 85f5a1aa55d68f877569aeb60aafc1d7              782 main/binary-amd64/Packages
- 860cffbeb0493a0cd8ca188dbc6e8b5d              512 main/binary-amd64/Packages.gz
+ 8ed27795a3cde117fb62acccb3822f12              781 main/binary-amd64/Packages
+ 04e9eac5aff098d0ad30d55ddb71eda6              512 main/binary-amd64/Packages.gz
 SHA1:
- e0e56be21de99225ec0e3690e39ba70e3a867cba               38 Release
- 5bd49e15d12b7151ef9b5d22fcb37ae283c7fdac              782 main/binary-amd64/Packages
- 6d9eea617bf56f2473f18a950951785f34782d5a              512 main/binary-amd64/Packages.gz
+ cbac9d376dff36a74edc60f57900f8691a50ecbf              781 main/binary-amd64/Packages
+ 36520850bb1f1ef8ae62e4cd282bca8bc95d5bd3              512 main/binary-amd64/Packages.gz
 SHA256:
- 1bd5091befea61c5ae1d10b731eb41e6653e270adcc9339b92b5e8a927c3ae42               38 Release
- 1a86e1b5601b974b980155ed328cea3efbe2f62f70934a641a0e3d7175614c95              782 main/binary-amd64/Packages
- a9fbcde3651e374dcbc55e6acea7a22ad803b629f975be6c65630d30552b6860              512 main/binary-amd64/Packages.gz
+ 45cd57ba57a398469a7f89b3da4b4b28ff7d7917f966db1c678401bd8882a6c3              781 main/binary-amd64/Packages
+ 09421d780bec5c654a0df797a6b70a13e1c3ddcfa86cad45477deccbdba56b3b              512 main/binary-amd64/Packages.gz
 SHA512:
- 00a8674ccfb7ac6d9dc5c5d744caadf08aa7f83e3cb2da51b9ef62b5cf38aae4fc35f5c40952f211757e7abdf24ea5c2ddd6276683af80854fb6b2beae3643c6               38 Release
- facd4f026827d7c0de236e4baaa6ff9dc8fbe507f12d2e3227af7c54d1022ed4cc7515b6f05179b17064a3f3b2284093128da80b65db9582ba64c82367e9bdf0              782 main/binary-amd64/Packages
- a89825242321e2101984ba1f03732f4ef8c06eadfc3dadb4f242ad4f4c5ee9b62e953f557e04a27f31915d9776dfcbd03213d91e7f7d564be1688ac2aae9d5ed              512 main/binary-amd64/Packages.gz
+ 29f3accf56b7934aeae45f4ca4fcf8c2d95f3e5b342470a14a899db95609ba3197ee58639f11fad68cfbd8a7c38a0c3d61f206a1df238de5d5b2c6a99b2d54f1              781 main/binary-amd64/Packages
+ 5e9d59dc94af59e793d3dfe117be876eb898616bf8cee94231492569d7ae1e0071b67f59f35f6565e6e9294b16669924ad21a51033432bf790c327ceaef154ec              512 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQDbuTjHpxGxt7ItxTveXRwnrJr3AUCataFagAKCRDveXRwnrJr
-3C46AP4ulsMYjGVtRxuo1WRS6p7pQn9YXvFw3l6WkE4QOGnroQEAggdQra539p/+
-fsBIVA481Lq3s008Srbwal8WwoOB+gc=
-=vNTI
+iJEEARYKADkWIQQDbuTjHpxGxt7ItxTveXRwnrJr3AUCataGixsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQ73l0cJ6ya9wbPwEAmQ1hI2g/dTMkD6izYC97
+88raBWpnv8K5RrWH1oE1F8MA/3hBHMURtMFA1ijxN1ALaQcOPekYarrjPqLYucYl
+TikP
+=dzEp
 -----END PGP SIGNATURE-----
